@@ -1,1 +1,15 @@
-.container {}
+// For custom fonts
+
+//@font-face {
+//  font-family: "Open Sans";
+//  src: url("./fonts/BebasNeueRegular-gxj83.ttf") format("truetype"),
+//  url("./fonts/BebasNeueRegular-X34j2.otf") format("opentype");
+//}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.main {}
