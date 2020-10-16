@@ -8,7 +8,7 @@
     "serve": "webpack-dev-server --open",
     "lint": "eslint src/index.js"
   },
-  "author": "",
+  "author": "Konrad Klimczak",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^4.3.0",
