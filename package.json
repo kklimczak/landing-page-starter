@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack",
     "serve": "webpack-dev-server --open",
-    "lint": "eslint index.js"
+    "lint": "eslint src/index.js"
   },
   "author": "",
   "license": "ISC",
