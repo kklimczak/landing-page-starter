@@ -1,11 +1,12 @@
 {
-  "name": "th-generator",
+  "name": "landing-page-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "The starting configuration for build and development a landing page",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
     "serve": "webpack-dev-server --open",
+    "serve:public": "webpack-dev-server --host 0.0.0.0",
     "lint": "eslint src/index.js"
   },
   "author": "Konrad Klimczak",
